@@ -1,7 +1,10 @@
 import React from 'react'
+import { FooterStyled } from './Footer.styled'
 
 export const Footer = () => {
   return (
-    <div>Footer</div>
+    <FooterStyled>
+      <p>ReactDex &copy; 2023 - Todos direitos reservados</p>
+    </FooterStyled>
   )
 }

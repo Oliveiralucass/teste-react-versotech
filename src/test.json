@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "test test",
+        "types": ["Type1", "type2"],
+        "weight": 10,
+        "height": 20,
+        "image": "./assets/images/charizard.png"
+    },
+    {
+        "id": 2,
+        "name": "test test",
+        "types": ["Type1", "type2"],
+        "weight": 10,
+        "height": 20,
+        "image": "./assets/images/charizard.png"
+    },
+    {
+        "id": 3,
+        "name": "test test",
+        "types": ["Type1", "type2"],
+        "weight": 10,
+        "height": 20,
+        "image": "./assets/images/charizard.png"
+    },
+    {
+        "id": 4,
+        "name": "test test",
+        "types": ["Type1", "type2"],
+        "weight": 10,
+        "height": 20,
+        "image": "./assets/images/charizard.png"
+    },
+    {
+        "id": 5,
+        "name": "test test",
+        "types": ["Type1", "type2"],
+        "weight": 10,
+        "height": 20,
+        "image": "./assets/images/charizard.png"
+    },
+    {
+        "id": 6,
+        "name": "test test",
+        "types": ["Type1", "type2"],
+        "weight": 10,
+        "height": 20,
+        "image": "./assets/images/charizard.png"
+    },
+    {
+        "id": 7,
+        "name": "test test",
+        "types": ["Type1", "type2"],
+        "weight": 10,
+        "height": 20,
+        "image": "./assets/images/charizard.png"
+    },
+    {
+        "id": 8,
+        "name": "test test",
+        "types": ["Type1", "type2"],
+        "weight": 10,
+        "height": 20,
+        "image": "./assets/images/charizard.png"
+    }
+]
